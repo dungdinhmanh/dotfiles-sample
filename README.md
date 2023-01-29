@@ -1,2 +1,4 @@
 # dotfiles-sample
-Default dotfiles from Arch craft
+Default dotfiles from ArchCraft
+#
+Clone this repo to customized
